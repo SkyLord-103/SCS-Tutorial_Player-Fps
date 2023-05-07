@@ -1,7 +1,7 @@
 In this video I will show you how to code a fps counter,
 with 2 examples.
 
-Docs
+## Docs
 [time](https://create.roblox.com/docs/reference/engine/globals/RobloxGlobals#time)
 [os.clock](https://create.roblox.com/docs/reference/engine/libraries/os#clock)
 
